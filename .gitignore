@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# Cypress config and reports (optional, tweak as needed)
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# System files
+.DS_Store
+Thumbs.db
