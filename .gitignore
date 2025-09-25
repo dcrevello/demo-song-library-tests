@@ -1,11 +1,17 @@
 # Node.js dependencies
 node_modules/
 
-# Cypress config and reports (optional, tweak as needed)
+# Cypress config and reports
 cypress/screenshots/
 cypress/videos/
 cypress/reports/
+cypress/mochawesome.json
+mochawesome-report/
+mochawesome.html
 
 # System files
 .DS_Store
 Thumbs.db
+
+# VSCode config (optional, if you're using it and want to keep things clean)
+.vscode/
